@@ -32,7 +32,7 @@ export const data = [
     ans: 1
   },
   {
-    questions: 'What is the primary color of bananas?',
+    question: 'What is the primary color of bananas?',
     option1: 'Red',
     option2: 'Blue ',
     option3: 'Yellow',
