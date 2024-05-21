@@ -1,6 +1,6 @@
 export const data = [
   {
-    questions: 'What is the capital of France?',
+    question: 'What is the capital of France?',
     option1: 'Madrid',
     option2: 'Paris ',
     option3: 'Rome',
@@ -8,7 +8,7 @@ export const data = [
     ans: 2
   },
   {
-    questions: 'Which planet is known as the Red Planet?',
+    question: 'Which planet is known as the Red Planet?',
     option1: 'Mars ',
     option2: 'Venus ',
     option3: 'Saturn',
@@ -16,7 +16,7 @@ export const data = [
     ans: 1
   },
   {
-    questions: 'In what year was the first iPhone released?',
+    question: 'In what year was the first iPhone released?',
     option1: '1999',
     option2: '2007 ',
     option3: '2005',
@@ -24,7 +24,7 @@ export const data = [
     ans: 2
   },
   {
-    questions: 'What is the largest mammal in the world?',
+    question: 'What is the largest mammal in the world?',
     option1: 'Blue Whale',
     option2: 'Elephant ',
     option3: 'Great White Shark',
